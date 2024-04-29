@@ -8,13 +8,10 @@
 그때 그때 상황에 맞추어 잘 살아가자. test4
 
 ## JAVA 개념 진행 상황(https://www.youtube.com/watch?v=NQq0dOoEPUM)
-https://www.youtube.com/watch?v=NQq0dOoEPUM
-(완) [20240429] (0:00:00) 오리엔테이션
 
+(완) [20240429] (0:00:00) 오리엔테이션\n
 (완) [20240429] (0:06:18) 윈도우에서 JDK 설치하기 / 1.8.0_412로 설치 완료
-
 (0:15:52) 윈도우에서 IntelliJ 설치하기
-
 (0:22:15) Mac 에서 JDK 설치하기
 (0:32:06) Mac 에서 IntelliJ 설치하기
 (0:36:29) Hello World
