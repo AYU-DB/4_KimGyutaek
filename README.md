@@ -3,9 +3,7 @@
 ## 🧑🏻‍💻KimGyutaek
 
 ## 명언
-한 줄로 정리하기엔 경우의 수가 너무 많다. 
-인생 전체를 관통하는 절대적인 법칙은 없으니
-그때 그때 상황에 맞추어 잘 살아가자. test4
+소통 / 협의 / 팀워크
 
 ## JAVA 개념 진행 상황(https://www.youtube.com/watch?v=NQq0dOoEPUM)
 
